@@ -1,0 +1,42 @@
+#----------------------------------SOF--------------------------------------------
+# This is the Input File for the Tracsat Converging-Diverging Nozzle Geometry Calculator
+# Author: Arihan Srirangapatnam, Purdue University, asrirang@purdue.edu
+
+
+#Flow Selection
+#To choose a flow type uncomment flow type
+
+Perfectly-Expanded
+# Under-Expanded
+# Over-Expanded
+
+
+#Perfectly-Expanded Flow Variables 
+#Variables have been preloaded with the default values
+
+Intended Thrust =  1
+Gas Constant = 287.05
+Incoming Stagnantion Pressure = 413685
+Incoming Stagnation Temperature = 300
+Ambient Pressure = 101352.9
+
+
+#Under-Expanded Flow Variables
+
+ex
+ex
+ex
+ex
+ex
+
+
+#Over-Expanded Flow Variables
+
+ex
+ex
+ex
+ex
+ex
+ 
+ 
+ #----------------------------------EOF--------------------------------------------
